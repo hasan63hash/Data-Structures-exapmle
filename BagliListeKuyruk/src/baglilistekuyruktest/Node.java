@@ -1,0 +1,19 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package baglilistekuyruktest;
+
+/**
+ *
+ * @author User
+ */
+public class Node {
+    int sayi;
+    Node sonraki;
+    
+    public Node(int sayi){
+        this.sayi = sayi;
+    }
+}
